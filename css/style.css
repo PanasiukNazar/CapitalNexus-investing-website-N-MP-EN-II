@@ -419,3 +419,15 @@ header h2 {
     background-color: #5f4b8bff;
     color: #fff;
 }
+
+.form-content li:not(:last-child) {
+    margin-bottom: 12px;
+}
+
+.form-content li {
+    list-style-type: none;
+}
+
+.form-content ul {
+    padding-left: 0px;
+}
